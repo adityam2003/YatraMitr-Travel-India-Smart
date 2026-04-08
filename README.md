@@ -60,12 +60,12 @@ YatraMitr helps you:
   <img src="media/1.png" width="18%" />
   <img src="media/2.png" width="18%" />
   <img src="media/3.png" width="18%" />
-</p>
-
-<p align="center">
-  <img src="media/4.png" width="18%" />
+   <img src="media/4.png" width="18%" />
   <img src="media/5.png" width="18%" />
 </p>
+
+
+
 ---
 
 ## 🛠 Tech Stack
